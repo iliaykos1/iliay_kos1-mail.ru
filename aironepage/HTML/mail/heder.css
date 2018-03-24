@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+    background: url(../img/1920x1080/01.jpg)no-repeat center top / cover;
+    height: 100vh;
+}
+.b2{
+    text-align: center;
+    background: ;
+    margin-top: 200px;
+   
+}
+.b3{
+    margin-top: 15px;
+}
